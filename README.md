@@ -9,6 +9,12 @@ This project focuses on analyzing the business performance of Atliq in the hospi
 * To analyze revenue, occupancy, ratings, and cancellations
 * To provide actionable insights for improving operational efficiency
 
+## 🔗 Live Dashboard
+
+👉 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTc5NzdiYjctMDE4OS00MWZhLWE0NDMtMWNhZWQwNzdkODZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+(Replace # with your Power BI / published report link)
+
 ## 📁 Data Source
 CSV files containing hospitality business data
 
